@@ -11,7 +11,6 @@ setActiveStep(0);
   }
   function next()
   {
-
 setActiveStep((prevActiveStep) => prevActiveStep + 1);
   }
   function prev()
